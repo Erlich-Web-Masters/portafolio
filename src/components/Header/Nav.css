@@ -1,0 +1,28 @@
+.nav-primario{
+    display:flex;
+    flex-direction: column;
+}
+
+.nav-primario a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: var(--blanco);
+    font-size:2rem;
+    font-weight: 700;
+    padding:1rem;
+}
+
+@media (min-width: 768px) {
+    .nav-primario {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+.nav-primario a:hover{
+    color:var(--primario);
+    text-decoration: underline;
+    padding: 1rem;
+    transition: all 500ms ease;
+}

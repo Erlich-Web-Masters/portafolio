@@ -1,0 +1,16 @@
+
+    {
+        "db":{
+                "servicioA":"Sitios hechos con Wordpress",
+                "servicioB":"Aplicaciones con php y Mysql",
+                "servicioC":"Aplicaciones con React",
+                "descripcion-1" : "Ofresco consultoría a su sitio en Wordpress , asi como en caso de tener poco presupuesto implementar su sitio con plantillas ya disponibles.",
+                "descripcion-2" : "Realizo aplicaciones web con React librería creada por facebook para la cración de interfaces de usuarios, con una exelente velocidad de carga.",
+                "descripcion-3" : "Realizo sistemas con base de datos empresariales."
+            },
+        "curriculum":{
+            "habilidades":["Html 5", "Css 3", "Java Script", "TypeScript","React","Vue js","Node Js", "Express", "PHP", "MySQL","Mongo BD", "Wordpress", "Git"],
+            "yo":"Hola mi nombre es Erlich vivo en la Habana, Cuba. Tengo 31 años, soy graduado de Tec. en Ciencias Informáticas desde el 2008, cuento con una experiencia de 6 años en el mundo del desarrollo web, mayormente trabajando con Wordpress desarrollando themas (plantillas) y adaptando otras ect... Aunque actualmente me encuentro estudiando la Ing. en Ciencias Informáticas soy de formación autodidacta, trato siempre de estar al día aprendiendo cosas nuevas, no tengo experiencia trabajando con grupos de programadores pero sin duda me gustaría. Actualmente trabajo en ICRT Instituto de Radio y Televisión en Canal Caribe dándole soporte al sitio del canal, único lugar donde me he desempeñado hasta la fecha y lugar donde he aprendido el oficio gracias al todo poderoso internet , aunque esto es así siempre trato de emprender proyectos por mi cuenta he ir creciendo profecionalmente."
+        }    
+        
+      }
