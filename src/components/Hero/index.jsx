@@ -1,7 +1,7 @@
 import React from "react";
 import './Hero.css';
 import iconoReact from './img/react.png';
-import iconoPhp from './img/php.png';
+
 import Img from "react-cool-img";
 import loadingImage from "./img/loading.gif";
 import errorImage from "./img/error.png";
