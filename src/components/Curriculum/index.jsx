@@ -4,14 +4,22 @@ import RedesSociales from '../RedesSociales';
 import './curriculum.css';
 import db from '../../data/db.json';
 
+import imagen from './img/yo.jpg';
+import Img from "react-cool-img";
+import loadingImage from "./img/loading.gif";
+import errorImage from "./img/error.png";
+
+
 export default function index() {
+
+    
     return (
 
         <div className="animate__animated animate__fadeIn">
         <ContenedorSombra >
             <div className='contenedor-curriculum'>
                 <div>
-                    <img src="../../../img/yo.jpg" alt="Erlich Rodriguez"  className="foto"/>
+                <Img src={imagen} alt="Erlich Rodriguez"  className="foto"  placeholder={loadingImage}  error={errorImage}/>
                    
                 </div>
                 <div>

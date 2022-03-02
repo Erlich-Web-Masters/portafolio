@@ -14,7 +14,7 @@ html {
     scroll-snap-type: y mandatory;
 }
 /*scroll hace que se detenga en cada seccion*/
-.nav-primario,
+/* .nav-primario,
 .servicio,
 .formulario,
 .foto,
@@ -23,7 +23,7 @@ html {
 {
     scroll-snap-align: center;
     scroll-snap-stop: always;
-}
+} */
 
 *, *:before,*:after {
     box-sizing: inherit;
